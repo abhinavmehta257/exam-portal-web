@@ -1,0 +1,28 @@
+.blackCover{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.9);
+    z-index: 100;
+    top:0;
+    left: 0;
+}
+.blackCoverInner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 70%;
+    width: 90%;
+    max-width: 600px;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: auto;
+}
+.closeBut{
+    color: #fff;
+    font-size: 26px;
+    position: absolute;
+    right: 38px;
+    top: 20px;
+}

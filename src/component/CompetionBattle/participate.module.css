@@ -1,0 +1,19 @@
+.pWhitebox{
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 10px;
+    border:1px solid #ddd;
+}
+.pWhitebox h3{
+    font-size: 21px;
+    text-align: center;
+    border-bottom: 1px dotted #b3b2b2;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: #198754;
+    border-radius: 8px;
+    color: #fff;
+}
+.darkBg{
+    background-color: #f2f3f9;
+}

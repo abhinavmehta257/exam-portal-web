@@ -1,0 +1,46 @@
+.forgetPass {
+  cursor: pointer;
+  color: #6c757d;
+  display: inline-block;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #6c757d;
+  transition: all 0.5s;
+  position: relative;
+}
+.forgetPass::after {
+  content: "";
+  position: absolute;
+  height: 1px;
+  background-color: #000;
+  bottom: 0;
+  left: 0;
+}
+.welcomeUser span {
+  display: inline-block;
+  margin-left: 20px;
+  color: blue;
+  cursor: pointer;
+}
+.limtWidth {
+  max-width: 900px;
+}
+
+.hideFocus:focus {
+  border-color: rgba(0, 68, 255, 0.5);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+    0 0 1px rgba(0, 68, 255, 0.4);
+  outline: 0 none;
+}
+
+.hideButtonFocus {
+  outline: none;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.flagDropDown > ul {
+  width: 200px;
+  left: -125px;
+}

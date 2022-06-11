@@ -1,0 +1,12 @@
+.s2{
+    background-image: url('../../images/background-2.jpg');
+    background-size: cover;
+    color: #fff;
+}
+.btnWhite {
+    color: #8AA8BD !important;
+    font-weight: bold !important;
+    background-color: #fff !important;
+    border-color: #8AA8BD !important;
+    min-width: 200px;
+}

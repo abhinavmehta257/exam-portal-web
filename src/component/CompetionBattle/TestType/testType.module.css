@@ -1,0 +1,33 @@
+.rubricQ{
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    color:#3f4139;
+}
+.rubricQ .icon{
+    font-size: 30px;
+}
+.rubricQ  .txt{
+    padding-left: 20px;
+    padding-top: 7px;
+}
+.options{
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #b3b2b2;
+    padding: 10px;
+    margin-top: 10px;
+}
+.options .option{
+    color: #8d8d8d;
+    font-weight: bold;
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.correctIcon{
+    background-image: url('../../../images/correct.png');
+}

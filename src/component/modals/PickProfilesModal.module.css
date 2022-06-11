@@ -1,0 +1,11 @@
+.card {
+  cursor: pointer;
+}
+.card:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  overflow-y: auto;
+  max-height: 400px;
+}

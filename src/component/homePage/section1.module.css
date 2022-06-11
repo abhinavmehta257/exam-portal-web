@@ -1,0 +1,115 @@
+.btnWhite {
+    color: #8AA8BD;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: #8AA8BD;
+}
+.s1Leftbox{
+    color: #fff;
+    position: relative;
+}
+.boxDblue{
+    background-color: #1f5192;
+}
+.boxDividerboxDblue{
+    border-top: 1px solid #102c52;
+}
+.boxGreen{
+    background-color: #9ebe3b;
+}
+.boxDividerBorderGreen{
+    border-top: 1px solid #729210;
+}
+.boxDgreen{
+    background-color: #1ea004;
+}
+.boxDividerBorderDgreen{
+    border-top: 1px solid #136d01;
+}
+.boxOrange{
+    background-color: #ffa800;
+}
+.boxDividerBorderOrange{
+    border-top: 1px solid #df9500;
+}
+.boxDorange{
+    background-color: #e67c03;
+}
+.boxDividerBorderDorange{
+    border-top: 1px solid #b16004;
+}
+.boxBlue{
+    background-color: #3d98ff;
+}
+.boxDividerBorderBlue{
+    border-top: 1px solid #0976f1;
+}
+.boxBlack{
+    background-color: #000;
+}
+
+
+
+.boxDivider{
+    margin-top: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.subject{
+    cursor: pointer;
+    position: relative;
+}
+.subPopUp{
+    position: absolute;
+    left: 0;
+    top:0;
+    z-index: 100;
+    background-color: rgba(255,255,255,0.9);
+    width: 100%;
+    height: 100%;
+    color: #000;
+    padding: 10px;
+}
+.customTopbox{
+    height: 441px;
+    color: #fff;
+}
+.mainPop{
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-color:#fff;
+    z-index:10000;
+}
+.customTopbox h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.listInline li{
+    margin-bottom: 15px;
+}
+.listInline li:last-child{
+    margin-bottom: 0px;
+}
+
+.toperImg img{
+    width: 50px;
+}
+
+.s1LeftBoxes{
+    border-radius: 12px;
+    background-color: #f5f5f5;
+}
+.s1lbGreen{
+    border: 1px solid #198754;
+}
+.s1lbGreenheading{
+    color: #198754;
+    margin-bottom: 16px;
+}
+
+
+
